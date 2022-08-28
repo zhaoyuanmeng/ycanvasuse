@@ -1,7 +1,7 @@
 {
   "name": "ycanvasuse",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3-beta.0",
   "packageManager": "pnpm@7.1.2",
   "description": "",
   "author": "zhaoyuanda",
