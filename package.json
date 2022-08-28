@@ -1,18 +1,18 @@
 {
-  "name": "starter-ts",
+  "name": "ycanvasuse",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@7.1.2",
   "description": "",
-  "author": "TickHeart",
+  "author": "zhaoyuanda",
   "license": "MIT",
-  "homepage": "https://github.com/TickHeart/starter-ts#readme",
+  "homepage": "https://github.com/zhaoyuanmeng/ycanvasuse#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TickHeart/starter-ts"
+    "url": "git+https://github.com/zhaoyuanmeng/ycanvasuse"
   },
   "bugs": {
-    "url": "https://github.com/TickHeart/starter-ts/issues"
+    "url": "https://github.com/zhaoyuanmeng/ycanvasuse/issues"
   },
   "keywords": [],
   "sideEffects": false,
