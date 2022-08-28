@@ -1,3 +1,3 @@
-export const name = "tick";
-export const tsst = "aaa";
-export const tsst2 = "aaa";
+// 入口文件 导出所有的开发包
+export * from './useMove'
+export * from './types/useMove'

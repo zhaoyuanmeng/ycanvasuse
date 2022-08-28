@@ -2,7 +2,6 @@
   "compilerOptions": {
     "target": "es2018",
     "module": "esnext",
-    "lib": ["esnext"],
     "moduleResolution": "node",
     "esModuleInterop": true,
     "strict": true,
@@ -10,6 +9,6 @@
     "resolveJsonModule": true,
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
-    "types": ["vitest/globals", "vitest/importMeta"]
+    "lib": [ "dom", "es5", "es2015.promise" ,"es2015", "es2017"],
   }
 }
