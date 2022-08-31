@@ -1,7 +1,7 @@
 // 引入包 自己手动引入的 
 // TODO:后期借助node自动从npm导入包 然后注入到dist文件里，方便cdn那种的使用
-import { Arc, CanvasEngine, Rect,EventName } from "../../base/index.mjs";
-// import { Arc } from "ycanvas";
+// import { Arc, CanvasEngine, Rect,EventName } from "../../base/index.mjs";
+import { Arc, CanvasEngine, Rect,EventName } from "ycanvas";
 // 在包的基础上扩展
 
 import type {CanvasEngineProps} from '../types/useMove'
