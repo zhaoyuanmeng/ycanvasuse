@@ -1,8 +1,12 @@
-# starter-ts
+## 待优化
 
-A ts starter by developer-plus.
+- 集成vitest
 
+- 集成monorepo
 
-## LICENSE
+- 集成UI测试
 
-MIT, developer-plus made with 💗.
+- 集成vite
+
+- 划分好代码结构
+
