@@ -1,1 +1,5 @@
-export type a = number
+export type CanvasEngineProps = {
+    w?:string,
+    h?:string,
+    canvasTarget:string
+}
