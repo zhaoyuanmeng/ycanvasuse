@@ -5,5 +5,6 @@ export default defineConfig({
   clean: true,
   dts: true,
   outDir: "dist",
-  format: ['cjs', 'esm','iife']
+  format: ['cjs', 'esm', 'iife'],
+  globalName:'_'
 });
